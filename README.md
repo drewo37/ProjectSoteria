@@ -12,7 +12,7 @@ Also current version works best in a unix/linux system with the Cryptography mod
 
 * Miguel Armienta - <LinkedIn or Contact info>
 
-* Drew Otten - <LinkedIn or Contact info>
+* Drew Otten - https://www.linkedin.com/in/drew-otten-a96834214/
 
 ## Vision Statement
 Project Soteria aims to provide individuals and small businesses with the software needed to to encrypt files and other digital data so that the integrity and confidentiality is not compromised, largely based on user feedback and response to plausible threats.
